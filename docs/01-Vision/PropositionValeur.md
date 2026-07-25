@@ -2,7 +2,7 @@
 
 ## Notre promesse
 
-RentIA est le deuxième cerveau des propriétaires immobiliers.
+RentIA est un assistant intelligent conçu pour devenir la mémoire numérique des propriétaires immobiliers..
 
 Il centralise toutes les informations importantes relatives aux logements, aux locataires et aux interventions afin d'aider les propriétaires à gagner du temps, éviter les oublis et offrir un meilleur service à leurs locataires, sans paperasse ni casse-tête.
 
